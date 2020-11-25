@@ -1,8 +1,8 @@
-Ti=Fake News 
+Ti= Use of social networks 
 
-1.sec=Fake News endanger democracy.
+1.sec= Facebook and Instagram groups will be used to share photographs and information.  
 
-2.sec=It is important to be able to distinguish fake news from actual news.
+2.sec= All students must sign a document approving or not to have photographs of their person broadcast on the Facebook and Instagram groups.
 
 =[G/Z/ol-a/s2]
 
